@@ -1,5 +1,5 @@
 
-
+@import './vars';
 * {
 	padding: 0;
 	margin: 0;
@@ -35,7 +35,9 @@ body {
 	height: 100%;
 	width: 100%;
 	line-height: 1;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: $fontMain;
+	color: $mainColor;
+	background-color: $bgColor;
 	-ms-text-size-adjust: 100%;
 	-moz-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
@@ -89,5 +91,4 @@ h4,
 h5,
 h6 {
 	font-size: inherit;
-	font-weight: 400;
 }

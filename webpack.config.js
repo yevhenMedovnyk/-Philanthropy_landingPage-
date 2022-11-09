@@ -56,7 +56,7 @@ module.exports = {
 			],
 		}),
 		new HtmlWebpackPlugin({
-			template: path.resolve(__dirname, './index.html'),
+			template: path.resolve(__dirname, './src/index.html'),
 			filename: 'index.html',
 			minify: {
 				collapseWhitespace: isProd
