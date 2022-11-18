@@ -114,8 +114,6 @@ body.lock{
 	@media(max-width:1024px){
 		font-size: 1.3rem;
 	}
-	
-
 }
 .large-t {
 	font-weight: 700;
@@ -146,21 +144,17 @@ body.lock{
 		padding: 2rem 0;
 		@media(max-width: 768px){
 			padding: 1.3rem 0;
-
 		}
-
 	}
 
 	&__logo {
 		z-index: 100;
 		margin-right: 2.5rem;
-		
 	}
 
 	&__menu {
 		flex: 0 1 100%;
 	}
-
 	&__cart {
 	}
 }
@@ -199,10 +193,8 @@ body.lock{
 		color: $secondColor;
 		margin-right: 1rem;
 	}
-
 	&__icon {
 	}
-
 	&__link {
 		font-family: $fontSecond;
 		transition: 0.3s;
@@ -223,7 +215,6 @@ body.lock{
 		}
 	}
 }
-
 
 .cart {
 	z-index: 100;
@@ -480,9 +471,7 @@ body.lock{
 		}
 		@media(max-width: 460px){
 			font-size: 1.7rem;
-
 		}
-
 	}
 
 	&__text {
@@ -511,8 +500,6 @@ body.lock{
 		@media(max-width: 460px){
 			font-size: 0.8rem;
 		}
-
-
 	}
 
 	&__btns {
@@ -521,7 +508,6 @@ body.lock{
 			width: 95%;
 			gap: .8rem;
 		}
-
 	}
 
 	&__button {
@@ -576,7 +562,6 @@ body.lock{
 		@media(max-width: 460px){
 			font-size: 1.6rem;
 		}
-
 	}
 
 	&__text {
@@ -638,7 +623,6 @@ body.lock{
 		@media(max-width:460px){
 			margin-inline: auto;
 		}
-		
 	}
 
 	&__text {
@@ -762,7 +746,6 @@ body.lock{
 		@media(max-width:719px){
 			align-self: center;
 		}
-
 	}
 
 	&__content-subtitle {
@@ -771,7 +754,6 @@ body.lock{
 		@media(max-width:719px){
 			text-align: center;
 		}
-
 	}
 
 	&__content-title {
@@ -784,7 +766,6 @@ body.lock{
 		@media(max-width:460px){
 			margin-bottom: 2em;
 		}
-
 	}
 
 	&__image {
@@ -795,7 +776,6 @@ body.lock{
 		@media(max-width:719px){
 			align-self: center;
 		}
-
 	}
 }
 
@@ -816,9 +796,6 @@ body.lock{
 		@media(max-width:460px){
 			max-width: 60%;
 		}
-
-
-		
 	}
 }
 
@@ -848,8 +825,6 @@ body.lock{
 			align-items: center;
 			text-align: center;
 		}
-
-
 	}
 
 	&__image {
@@ -886,7 +861,6 @@ body.lock{
 		line-height: calc(20 / 18);
 		@media(max-width:1024px){
 			font-size: 1rem;
-
 		}
 	}
 }
@@ -916,7 +890,6 @@ body.lock{
 			padding-block: 12% 12%;
 			margin-bottom: 3rem;
 		}
-
 	}
 
 	&__subtitle {
@@ -950,9 +923,7 @@ body.lock{
 		padding-bottom: 65.4%;
 		@media(max-width:768px){
 			padding-bottom: 0;
-
 		}
-
 	}
 	&__wrapper {
 		padding-bottom: 16.4%;
@@ -1004,7 +975,6 @@ body.lock{
 			border-radius: 2.1875rem;
 			margin-bottom: 14%;
 		}
-
 	}
 
 	&__text-block {
@@ -1018,13 +988,11 @@ body.lock{
 		align-items: flex-start;
 	}
 
-
 	&__item {
 		max-width: 35.5rem;
 		@media(max-width:768px){
 			padding-inline: 2rem;
 		}
-
 	}
 
 	&__title {
@@ -1049,7 +1017,6 @@ body.lock{
 		@media(max-width:845px){
 			padding-top: 12%;
 		}
-
 	}
 	&__header {
 		margin-bottom: 5.25%;
@@ -1066,7 +1033,6 @@ body.lock{
 		@media(max-width:576px){
 			margin-bottom: 2rem;
 		}
-
 	}
 
 	&__button {
@@ -1075,7 +1041,6 @@ body.lock{
 		@media(max-width:576px){
 			align-self: center;
 		}
-
 	}
 
 	&__grid {
@@ -1130,7 +1095,6 @@ body.lock{
 			max-width: 8rem;
 			max-height: 8rem;
 		}	
-
 	}
 
 	&__title {
@@ -1176,7 +1140,6 @@ body.lock{
 			text-align: center;
 			padding: 10% 2.3% 10.5%;
 		}
-
 	}
 
 	&__title {
@@ -1239,7 +1202,6 @@ body.lock{
 		@media(max-width:719px){
 			align-self: center;
 		}
-
 	}
 
 	&__content {
@@ -1252,7 +1214,6 @@ body.lock{
 			text-align: center;
 			margin-bottom: 7%;
 		}
-
 	}
 
 	&__text {
@@ -1270,7 +1231,6 @@ body.lock{
 			max-width: 85%;
 			font-size: 0.85rem;
 		}
-
 	}
 
 	&__list {
@@ -1342,7 +1302,6 @@ body.lock{
 		padding: 0.8rem 0.4rem;
 	}
 
-
 	&__text {
 		font-size: 1.125rem;
 		line-height: calc(30 / 18);
@@ -1353,7 +1312,6 @@ body.lock{
 		@media(max-width:460px){
 			font-size: 0.85rem;
 		}
-
 	}
 
 	&__name {
@@ -1457,12 +1415,10 @@ body.lock{
 				transform: translateY(-10rem);
 			}
 	}
-
 	&__title {
 	
 	}
 }
-
 
 .card {
 	max-width: 44.92%;
@@ -1511,7 +1467,6 @@ body.lock{
 		@media(max-width:576px){
 			padding: 0.5em 1em 0.7em;
 		}
-
 	}
 
 	&__data-date {
@@ -1566,7 +1521,6 @@ body.lock{
 		@media(max-width:719px){
 			font-size: 0.9rem;
 		}
-
 	}
 }
 .card--right {
@@ -1587,7 +1541,6 @@ body.lock{
 			display: grid;
 			grid-template: max-content 1fr min-content / repeat(2, 1fr);
 		}
-
 	}
 
 	&__bottom {
@@ -1606,8 +1559,6 @@ body.lock{
 		font-size: 1rem;
 	}
 
-
-
 	&__logo {
 		max-width: 27.54%;
 		margin-right: 4.84%;
@@ -1621,10 +1572,7 @@ body.lock{
 			max-width: 60%;
 			text-align: center;
 			margin: 0 auto;
-
 		}
-
-		
 	}
 	.logo__img{
 		margin-bottom: 1.6875rem;
@@ -1632,8 +1580,6 @@ body.lock{
 				justify-content: center;
 			}
 	}
-
-
 	&__text {
 	}
 
@@ -1697,9 +1643,7 @@ body.lock{
 		flex: auto;
 		@media(max-width:1024px){
 			flex: 25%;
-
 		}
-
 	}
 }
 
@@ -1712,7 +1656,6 @@ body.lock{
 		grid-column: 2 /3;
 		grid-row: 2 / 3;
 		justify-self: center;
-
 	}
 
 	&__title {
@@ -1726,7 +1669,6 @@ body.lock{
 			font-size: 1.1rem;
 		}
 	}
-
 	&__list {
 	}
 
@@ -1753,7 +1695,6 @@ body.lock{
 		grid-row: 3 / 4;
 	}
 
-
 	&__container {
 	}
 
@@ -1770,7 +1711,6 @@ body.lock{
 			padding: 10% 4% 8%;
 			font-size: 0.9rem;
 		}
-
 	}
 
 	&__title {
@@ -1785,7 +1725,6 @@ body.lock{
 			max-width: 60%;
 			margin: 0 auto;
 		}
-
 	}
 
 	&__button {
